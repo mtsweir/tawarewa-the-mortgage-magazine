@@ -30,5 +30,6 @@ node_modules
 ############
 dist
 test
+bkups
 *css
 *sass-cache
